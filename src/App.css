@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Bruno Ace SC', cursive;
+}
+body{
+  background-color: #6a686c;
+}
+
+.movies-container{
+  padding: 10px 10%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
